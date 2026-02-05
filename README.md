@@ -10,11 +10,11 @@ I'm passionate about creating clean, efficient code and solving complex problems
 
 ### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,typescript,remix,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,typescript,remix,tailwind&theme=light)](https://skillicons.dev)
 
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma,graphql&theme=light)](https://skillicons.dev)
 
 ## Professional Experience Highlights
 
@@ -28,8 +28,8 @@ I'm passionate about creating clean, efficient code and solving complex problems
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/capellandiana/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:capellandiana@yahoo.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/capellandiana/)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:capellandiana@yahoo.com)
 
 ---
 
